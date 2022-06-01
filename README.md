@@ -1,2 +1,1 @@
-# smartCar_quanXiang
-国二，省一
+# 十六届智能车全向行进组
